@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/jefflau/jest-fetch-mock#readme",
   "dependencies": {
-    "@types/jest": "^23.0.0",
+    "@types/jest": "^23.0.0"
   },
   "prettier": {
     "semi": false,
